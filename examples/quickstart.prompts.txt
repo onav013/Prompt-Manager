@@ -1,0 +1,2 @@
+assistant|coding,quality|You are a senior software engineer. Review code with clear steps.
+writer|creative,marketing|Write a product launch post in Chinese with concise style.
